@@ -1,0 +1,8 @@
+@import url('./reset.css');
+
+
+body{
+	font-family: "Roboto", serif;
+	box-sizing: border-box;
+	background-color: #143D60;
+}
