@@ -1,5 +1,3 @@
-Aqui está o texto adaptado para o seu projeto de formulário:
-
 Sobre
 
 Este projeto é um site de formulários desenvolvido como parte do meu aprendizado contínuo em React. O objetivo foi explorar uma das principais ferramentas de gerenciamento de formulários no React, o React Hook Form, garantindo eficiência e simplicidade na manipulação de dados do formulário. Além disso, utilizei o Zod para aplicar a validação dos campos, garantindo que os dados inseridos estejam sempre corretos antes do envio.
