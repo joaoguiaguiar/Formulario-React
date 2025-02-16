@@ -4,8 +4,6 @@ Este projeto é um site de formulários desenvolvido como parte do meu aprendiza
 
 Para o gerenciamento de rotas, utilizei o React Router DOM, permitindo a navegação fluida entre diferentes páginas do site. Na estilização, optei pelo Styled Components, garantindo um design moderno e dinâmico. O projeto foi estruturado com Vite, proporcionando um ambiente de desenvolvimento rápido e otimizado, e o deploy foi realizado na Vercel, tornando o acesso à aplicação simples e eficiente.
 
-Esse projeto é um passo importante no meu aprendizado, e no futuro, pretendo aprimorá-lo ainda mais, integrando novas funcionalidades e explorando outras técnicas avançadas de formulários em React.
-
 Tecnologias Utilizadas
 
  •	React - TypeScript
