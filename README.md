@@ -14,7 +14,7 @@ Tecnologias Utilizadas
 	
  •	React Router DOM (gerenciamento de rotas)
 	
- •	Styled Components (estilização moderna)
+ •	Styled Components 
 	
  •	Vite (ferramenta de build)
 	
