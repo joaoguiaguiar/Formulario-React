@@ -9,13 +9,20 @@ Para o gerenciamento de rotas, utilizei o React Router DOM, permitindo a navega�
 Esse projeto é um passo importante no meu aprendizado, e no futuro, pretendo aprimorá-lo ainda mais, integrando novas funcionalidades e explorando outras técnicas avançadas de formulários em React.
 
 Tecnologias Utilizadas
-	•	React - TypeScript
-	•	React Hook Form (gerenciamento de formulários)
-	•	Zod (validação de dados)
-	•	React Router DOM (gerenciamento de rotas)
-	•	Styled Components (estilização moderna)
-	•	Vite (ferramenta de build)
-	•	Vercel (deploy da aplicação)
+
+ •	React - TypeScript
+	
+ •	React Hook Form (gerenciamento de formulários)
+	
+ •	Zod (validação de dados)
+	
+ •	React Router DOM (gerenciamento de rotas)
+	
+ •	Styled Components (estilização moderna)
+	
+ •	Vite (ferramenta de build)
+	
+ •	Vercel (deploy da aplicação)
 
 Link do projeto
 
