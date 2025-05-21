@@ -30,7 +30,6 @@ const ComponenteBoxForm = styled.main`
   }
 `;
 
-
 function App() {
   return (
     <BrowserRouter>
